@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(47, 47, 47);
+    font-family: sans-serif;
+    color:white;
+    font-size: 3em;
+    font-family: 'Comfortaa', cursive;
+}
+img{
+    width:100px;
+}
+.d-1, .d-2, .smile{
+    max-width:570px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.d-1, .d-2{
+    font-size:3em;
+    text-shadow: 3px 3px 3px rgb(124, 124, 124), 2px 2px 2px white;
+}
